@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44086356-9f5d-439a-be11-28b029af6ee6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SISELab4C.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SISELab4C.iml" afterDir="false" />
     </list>
@@ -105,10 +104,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="370" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.760@0.0.1280.760" timestamp="1579648608603" />
-    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1579647518610">
+    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1579649284491">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1579647518610" />
+    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1579649284491" />
     <state x="420" y="139" key="FileChooserDialogImpl" timestamp="1579648454603">
       <screen x="0" y="0" width="1280" height="760" />
     </state>

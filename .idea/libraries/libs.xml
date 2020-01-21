@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/webservices-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/webservices-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/istack-commons-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.annotation-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/istack-commons-runtime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jaxb-runtime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jaxr-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jaxb-jxc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jaxb-osgi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
