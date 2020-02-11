@@ -12,9 +12,11 @@ public class CalculatorClient {
         CalculatorService calcService = new CalculatorService();
 
         final Calculator calc = (Calculator) calcService.getCalculatorPort();
+        String url = "http://localhost:8090/calcservice";
+        url = JOptionPane.showInputDialog(null,"Insert the server url",url);
 
         ((BindingProvider) calc).getRequestContext().put(BindingProvider.ENDPOINT_ADDRESS_PROPERTY,
-                "http://localhost:8090/calcservice");
+                url);
 
         runCalculator(calc);
 
@@ -26,7 +28,15 @@ public class CalculatorClient {
      * Client must run until the user input 'exit'
      * */
     public static void runCalculator(Calculator calc) {
-        // implement in this method
+        while(true){
+            try{
+                String expression = JOptionPane.showInputDialog("Insert the expression:");
+                if (expression.equals("exit"))
+                    break;
+                int result = eval(expression, calc);
+                JOptionPane.showMessageDialog(null,"Result:"+result);
+            }catch(Exception e) {}
+        }
     }
 
     /*
